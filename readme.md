@@ -1,4 +1,4 @@
-# **db-stress-cli**
+# **db-stress cli tool**
 
 A CLI tool to stress-test databases (MongoDB, PostgreSQL, MySQL) or APIs with dummy data inserts. Generates realistic dummy data using Faker.js and inserts it in batches for efficiency, letting you test DB or API performance under load.
 
@@ -38,7 +38,7 @@ A CLI tool to stress-test databases (MongoDB, PostgreSQL, MySQL) or APIs with du
 ## **Installation**
 
 ```bash
-npm install -g db-stress-cli
+npm install -g db-stress
 
 ```
 

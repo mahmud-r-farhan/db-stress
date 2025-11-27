@@ -1,5 +1,5 @@
 {
-  "name": "db-stress-cli",
+  "name": "db-stress",
   "version": "1.0.0",
   "description": "A CLI tool for stress testing databases or APIs with dummy data",
   "main": "dist/cli.js",
@@ -25,7 +25,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mahmud-r-farhan/db-stress-cli.git"
+    "url": "https://github.com/mahmud-r-farhan/db-stress.git"
   },
   "files": [
     "dist",
